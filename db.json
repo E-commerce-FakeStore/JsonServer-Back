@@ -1,7 +1,32 @@
 {
   "user": [
-    { "id": 1, "email": "1@gmail.com", "pass": "Hola123456$", "rol": "a" },
-    { "id": 2, "email": "2@gmail.com", "pass": "Hola123456$", "rol": "a" },
-    { "id": 3, "email": "3@gmail.com", "pass": "Hola123456$", "rol": "u" }
+    {
+      "email": "1@gmail.com",
+      "password": "1234567",
+      "name": "pepe",
+      "address": {
+        "city": "malaga",
+        "street": "1234",
+        "number": "1234",
+        "zipcode": "a1234v"
+      },
+      "phone": "12341234",
+      "rol": "a",
+      "id": 1
+    },
+    {
+      "email": "2@gmail.com",
+      "password": "1234567",
+      "name": "ana",
+      "address": {
+        "city": "malaga",
+        "street": "1234",
+        "number": "1234",
+        "zipcode": "a1234v"
+      },
+      "phone": "12341234",
+      "rol": "u",
+      "id": 2
+    }
   ]
 }
